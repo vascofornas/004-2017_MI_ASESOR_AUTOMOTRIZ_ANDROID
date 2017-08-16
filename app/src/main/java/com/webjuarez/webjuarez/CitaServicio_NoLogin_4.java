@@ -82,6 +82,7 @@ public class CitaServicio_NoLogin_4 extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_cita_no_login_4);
 
+        Log.d("CITA 4", "ESTOY AQUI: ");
 
 
         SharedPreferences prefs =
